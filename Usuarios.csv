@@ -1,2 +1,5 @@
-Cuenta, Nombres, Apellidos, Cargo, Depndencia, Oficina, Telefono, Email, Compañia, Ciudad, Estado
-001, Andres, Olivares, Empleado, Sistemas, 402, 3192563510, andresolivares402@hotmail.com, sislog s.a.s, bogota, activo
+Cuenta," Nombres"," Apellidos"," Cargo"," Depndencia"," Oficina"," Telefono"," Email"," Compañia",," Estado"
+001," Andres"," Olivares"," Empleado"," Sistemas"," 402"," 3192563510"," andresolivares402@hotmail.com"," sislog s.a.s"," bogota"," activo"
+002,andrea,quintero," Empleado",Documentacion,001,3164913561,andrea001@hotmail.com,sislog s.a.s," bogota"," activo"
+003,julian,armenia," Empleado",Archivo,302,3416587103,julian302@hotmail.com,sislog s.a.s," bogota"," activo"
+004,lorena,guzman," Empleado",Mantenimiento,101,3138653105,lorena101@hotmail.com,sislog s.a.s," bogota"," activo"
