@@ -1,6 +1,6 @@
 import csv #Importar Modulo
 import os
-nombre_archivo = "usuarios.csv"
+nombre_archivo = "Usuarios.csv"
 ruta= os.path.abspath(__file__)
 directorio= os.listdir(os.path.dirname(ruta))
 print('los directorios son: ', directorio, "y se encuentran en la ruta:", os.path.dirname(ruta), '\n')
