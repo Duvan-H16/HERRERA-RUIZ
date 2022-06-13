@@ -1,6 +1,6 @@
 import csv #Importar Modulo
-nombre_archivo = "csv.Susuarios"
-with open(nombre_archivo) as archivo:
+
+with open(csv.Usuarios) as archivo:
     users = csv.reader(archivo)
     for dato in users:
         clave = list(dato.keys())
